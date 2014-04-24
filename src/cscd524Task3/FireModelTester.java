@@ -8,8 +8,8 @@ public class FireModelTester {
 
 	public static void main(String[] args) {
 		List<Fire> list = new ArrayList<Fire>();
-		double cleave = 1;
-		double decay = 0.7;
+		double cleave = 0.4;
+		double decay = 0.8;
 		int listSize = 0;
 		Random random = new Random();
 		
